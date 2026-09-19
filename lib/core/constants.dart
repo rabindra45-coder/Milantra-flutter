@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class AppConstants {
   // Replace these with your Supabase credentials
-  static const String supabaseUrl = 'https://YOUR_SUPABASE_PROJECT_ID.supabase.co';
-  static const String supabaseAnonKey = 'YOUR_SUPABASE_ANON_KEY';
+  static const String supabaseUrl = 'https://dmwvqpkcjqgshqjiffhi.supabase.co';
+  static const String supabaseAnonKey = 'sb_publishable_6nKngYUt5y_nu0U-2rSkzw_sXQPJlV4';
 
   static const String chatMediaBucket = 'chat-media';
   static const String avatarsBucket = 'avatars';
